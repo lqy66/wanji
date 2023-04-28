@@ -1,0 +1,9 @@
+{
+	"name": "dotnet",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "753987c5-e688-4c35-a827-134fabf67859",
+		"tenantId": "50e3c5ec-e960-46b1-8d2b-e6b9575b2c10"
+	}
+}
